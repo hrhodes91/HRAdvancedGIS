@@ -17,3 +17,4 @@ I also want to explore how ArcGIS and other mapping tools could be of use to art
 
 ## Portfolio
 
+[Custom Map Assignment](CustomMap.html)
