@@ -17,6 +17,6 @@ I also want to explore how ArcGIS and other mapping tools could be of use to art
 
 ### March 24, 2020
 
-Using Google's Map Styling Wizard and MyMaps, I created a custom map style based on the color palette from a 2017 production, _LIVE ART_. I then overlaid this with the location of Thai food restaurants in the Squirrel Hill neighborhood of Pittsburgh, PA.
+Using Google's Map Styling Wizard and MyMaps, I created a custom map style based on the color palette from a 2017 theater production I participated in, _LIVE ART_. I then overlaid this with the location of Thai food restaurants in the Squirrel Hill neighborhood of Pittsburgh, PA.
 
 [Custom Map Assignment](CustomMap.html)
