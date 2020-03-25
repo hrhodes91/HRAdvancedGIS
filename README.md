@@ -1,8 +1,6 @@
 # Advanced GIS Portfolio
 ## Hannah Rhodes
 
-https://hrhodes91.github.io/HRAdvancedGIS/
-
 ## About Me
 
 I am a Master of Arts Management student at CMU, currently in my final semester of the program. I earned my BA from the University of Richmond in Richmond, VA in Leadership Studies and Theatre Arts. Following that, I worked for a theater education nonprofit in Richmond, supporting our production team with my stage management, scenic painting, and sewing skills. I firmly believe arts learning and participation is essential for a culturally and civically engaged society. Post-graduation, I plan to work toward creating, providing, and/or improving those opportunities with an organization on the East Coast.
@@ -16,5 +14,9 @@ Through this course, I am eager to learn how the use of different coding languag
 I also want to explore how ArcGIS and other mapping tools could be of use to arts educators, arts organizations, or cultural policy makers. While they are not life-sustaining like PPE for hospitals and consequences for them are not emergent as they are for doctors and nurses, health crises like the COVID-19 pandemic we are experiencing now have a distinct impact on their work and services. Is there a way GIS can help the arts and culture industry during this time, perhaps in helping them develop response strategies post-COVID-19?   
 
 ## Portfolio
+
+### March 24, 2020
+
+Using Google's Map Styling Wizard and MyMaps, I created a custom map style based on the color palette from a 2017 production, _LIVE ART_. I then overlaid this with the location of Thai food restaurants in the Squirrel Hill neighborhood of Pittsburgh, PA.
 
 [Custom Map Assignment](CustomMap.html)
